@@ -1,0 +1,115 @@
+body{
+    margin: 10px;
+  margin-left: 60px;
+}
+.card{
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgb(126, 161, 144); 
+    border: 6px solid rgb(28, 26, 26);  
+}
+.res{
+    border-radius: 20px; 
+    height: 60px;
+    width: 200px; 
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 60%;
+}
+.inp1{
+    margin-top: 10px;
+    height: 30px;
+    width: 193px;
+    text-align: center;
+    justify-content: center;
+   
+}
+.inp2{
+    margin-top: 0;
+    
+    height: 30px;
+    width: 193px; 
+    text-align: center;
+    justify-content: center;
+/* padding-bottom: 10px; */
+}
+.btn1{
+    margin-top: 10px;
+    margin-left: 12px;
+    justify-content: center;
+    background-color: rgb(166, 135, 22);
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+
+.btn2{
+    background-color: rgb(166, 135, 22);
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+
+.btn3{
+    background-color: rgb(166, 135, 22);
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+.btn4{
+    background-color: rgb(166, 135, 22);
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+.btn5{
+    margin-top: 4px;
+    margin-left: 12px;
+    background-color: rgb(166, 135, 22);
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+
+.btn6{
+    background-color: rgb(166, 135, 22);
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+.btn7{
+    background-color: rgb(166, 135, 22);
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+.btn8{
+    background-color: rgb(166, 135, 22);
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+@media (max-width:1100px){
+    body{
+        background-color: blue;
+    }
+    
+}
+
+@media (max-width:800px){
+    body{
+        background-color: burlywood;
+
+    }
+   
+}
+
+@media (max-width:250px){
+    body{
+       background-color: darkgrey;
+      display: flex;
+      justify-content: center;
+    }
+}
